@@ -1,4 +1,5 @@
-program hello
-  ! Still learning fortran
-  print *, 'Hello, World!'
-end program hello
+program mathtran
+  print * , "Type in your variable:"
+  print * , "Type in your second number:"
+  print * , "Your number is:"
+end program mathtran
